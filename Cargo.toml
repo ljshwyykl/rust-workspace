@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "q-ctrlc",
+  "act-web",
+  "reborrowing",
+  "helloworld-tonic",
+  "ownership",
+]
