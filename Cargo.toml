@@ -5,5 +5,8 @@ members = [
   "reborrowing",
   "helloworld-tonic",
   "ownership",
-  "l-reqwest"
+  "l-reqwest",
+  "l-tracing",
+  "l-sea-orm",
+  "l-sea-orm/migration"
 ]
