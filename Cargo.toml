@@ -5,4 +5,5 @@ members = [
   "reborrowing",
   "helloworld-tonic",
   "ownership",
+  "l-reqwest"
 ]
